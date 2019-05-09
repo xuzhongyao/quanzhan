@@ -1,2 +1,2 @@
 <?php
-echo "asfd";
+echo "asf";
